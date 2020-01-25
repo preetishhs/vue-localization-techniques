@@ -38,11 +38,6 @@ const routes = [
         path: 'about',
         name: 'about',
         component: About
-      },
-      {
-        path: 'about/faq',
-        name: 'faq',
-        component: About
       }
     ]
   }
