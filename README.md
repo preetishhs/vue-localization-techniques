@@ -1,5 +1,7 @@
 # language-app
 
+For detailed doc [check here](https://blog.logrocket.com/advanced-localization-techniques-vue-js/)
+
 ## Project setup
 ```
 npm install
