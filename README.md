@@ -1,4 +1,4 @@
-# language-app
+# vue-localization-techniques
 
 For detailed doc [check here](https://blog.logrocket.com/advanced-localization-techniques-vue-js/)
 
